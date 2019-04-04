@@ -101,6 +101,13 @@ header section nav ul li {
     z-index: 1000;
   }
 
+  main section:last-of-type div button:hover {
+    background-color: white;
+    color: #000000;
+    margin-top: 5px;
+    padding: 5px 15px 5px 15px;
+    z-index: 1000;
+  }
 
 /***********************
 * Footer Styles
