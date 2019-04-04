@@ -94,6 +94,8 @@ header section nav ul li {
   }
 
   main section:last-of-type div button {
+    background-color: #000000;
+    color: white;
     margin-top: 5px;
     padding: 5px 15px 5px 15px;
     z-index: 1000;
